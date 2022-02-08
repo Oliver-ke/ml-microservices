@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![Oliver-ke](https://circleci.com/gh/Oliver-ke/ml-microservices.svg?style=svg)](https://app.circleci.com/pipelines/github/Oliver-ke/ml-microservices)
 
 ## Project Overview
 ml-microservices is an operational machine learning application that is trained to make housing price prediction. It is supercharged with production ready tools such as
